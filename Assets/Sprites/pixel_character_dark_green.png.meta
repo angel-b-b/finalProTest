@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: cc7ef5e94c0e4834d8df126403793b6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7715344237551567876
+    second: pixel_character_dark_green_0
+  - first:
+      213: 3484404636235517111
+    second: pixel_character_dark_green_1
+  - first:
+      213: -2135557171974379857
+    second: pixel_character_dark_green_2
+  - first:
+      213: -1953501901202176246
+    second: pixel_character_dark_green_3
+  - first:
+      213: 6991955522111083801
+    second: pixel_character_dark_green_4
+  - first:
+      213: -6528495446795282796
+    second: pixel_character_dark_green_5
+  - first:
+      213: 7895859624444182874
+    second: pixel_character_dark_green_6
+  - first:
+      213: -2082325522781663187
+    second: pixel_character_dark_green_7
+  - first:
+      213: -1185148632560455843
+    second: pixel_character_dark_green_8
+  - first:
+      213: 4821319474356621602
+    second: pixel_character_dark_green_9
+  - first:
+      213: -2830885595935990435
+    second: pixel_character_dark_green_10
+  - first:
+      213: 5531255980868807899
+    second: pixel_character_dark_green_11
+  - first:
+      213: 4798284347786919349
+    second: pixel_character_dark_green_12
+  - first:
+      213: 6195678852202121540
+    second: pixel_character_dark_green_13
+  - first:
+      213: 2808935665370075939
+    second: pixel_character_dark_green_14
+  - first:
+      213: -1240625576281847942
+    second: pixel_character_dark_green_15
+  - first:
+      213: 4292564271784801567
+    second: pixel_character_dark_green_16
+  - first:
+      213: -1739525769038755887
+    second: pixel_character_dark_green_17
+  - first:
+      213: 340478888972138770
+    second: pixel_character_dark_green_18
+  - first:
+      213: -336826245940453417
+    second: pixel_character_dark_green_19
+  - first:
+      213: -4656722399942406658
+    second: pixel_character_dark_green_20
+  - first:
+      213: -1000571147085641538
+    second: pixel_character_dark_green_21
+  - first:
+      213: -6107267612015160001
+    second: pixel_character_dark_green_22
+  - first:
+      213: -2391825841958967553
+    second: pixel_character_dark_green_23
+  - first:
+      213: 2243755368705547415
+    second: pixel_character_dark_green_24
+  - first:
+      213: 5424524726801855259
+    second: pixel_character_dark_green_25
+  - first:
+      213: 9066625365873118943
+    second: pixel_character_dark_green_26
+  - first:
+      213: -1582544612015555139
+    second: pixel_character_dark_green_27
+  - first:
+      213: 4117794043531846720
+    second: pixel_character_dark_green_28
+  - first:
+      213: 4921539108123088083
+    second: pixel_character_dark_green_29
+  - first:
+      213: -3312358463289182664
+    second: pixel_character_dark_green_30
+  - first:
+      213: -4570554122955091787
+    second: pixel_character_dark_green_31
+  - first:
+      213: 7593316531538068726
+    second: pixel_character_dark_green_32
+  - first:
+      213: -5927110767102698300
+    second: pixel_character_dark_green_33
+  - first:
+      213: -565411766070904157
+    second: pixel_character_dark_green_34
+  - first:
+      213: -8555880166363026715
+    second: pixel_character_dark_green_35
+  - first:
+      213: 7029974696015053763
+    second: pixel_character_dark_green_36
+  - first:
+      213: 4422099878969579455
+    second: pixel_character_dark_green_37
+  - first:
+      213: -1209687610187308734
+    second: pixel_character_dark_green_38
+  - first:
+      213: -8368390495127894079
+    second: pixel_character_dark_green_39
+  - first:
+      213: 9160865571151238066
+    second: pixel_character_dark_green_40
+  - first:
+      213: 547005479601028813
+    second: pixel_character_dark_green_41
+  - first:
+      213: -3898307270071230376
+    second: pixel_character_dark_green_42
+  - first:
+      213: 2706215144216504360
+    second: pixel_character_dark_green_43
+  - first:
+      213: 6719884444169985420
+    second: pixel_character_dark_green_44
+  - first:
+      213: -1079435245550577548
+    second: pixel_character_dark_green_45
+  - first:
+      213: -3249351097920984660
+    second: pixel_character_dark_green_46
+  - first:
+      213: 5119090731209595008
+    second: pixel_character_dark_green_47
+  - first:
+      213: 7623887071572537581
+    second: pixel_character_dark_green_48
+  - first:
+      213: 3053042416453547432
+    second: pixel_character_dark_green_49
+  - first:
+      213: -6341308633435290040
+    second: pixel_character_dark_green_50
+  - first:
+      213: 3616087654421550747
+    second: pixel_character_dark_green_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_character_dark_green_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4044e17d4b8621b60800000000000000
+      internalID: 7715344237551567876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcca843e871b5030800000000000000
+      internalID: 3484404636235517111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6ede6111afc52e0800000000000000
+      internalID: -2135557171974379857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074bc6fe54c3e4e0800000000000000
+      internalID: -1953501901202176246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 344
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91513cc908a680160800000000000000
+      internalID: 6991955522111083801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49613080bff1665a0800000000000000
+      internalID: -6528495446795282796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51485f8e7ab39d60800000000000000
+      internalID: 7895859624444182874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209edb38f71a13e0800000000000000
+      internalID: -2082325522781663187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 296
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa13e09918d8fe0800000000000000
+      internalID: -1185148632560455843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22113b97484c8e240800000000000000
+      internalID: 4821319474356621602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 249
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d17769c8ca6b8d0800000000000000
+      internalID: -2830885595935990435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca07d3208f2cc40800000000000000
+      internalID: 5531255980868807899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdf721213ee69240800000000000000
+      internalID: 4798284347786919349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44948e707197bf550800000000000000
+      internalID: 6195678852202121540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 249
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3231f43fa185bf620800000000000000
+      internalID: 2808935665370075939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c47a8c9968cee0800000000000000
+      internalID: -1240625576281847942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1534435670429b30800000000000000
+      internalID: 4292564271784801567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 249
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78eca8786fbd7e0800000000000000
+      internalID: -1739525769038755887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21934bedebf99b400800000000000000
+      internalID: 340478888972138770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfd0bb505a535bf0800000000000000
+      internalID: -336826245940453417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd04dd46afff5fb0800000000000000
+      internalID: -4656722399942406658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8847dc7d14d12f0800000000000000
+      internalID: -1000571147085641538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 201
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35969de670ae3ba0800000000000000
+      internalID: -6107267612015160001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6af65b1178eced0800000000000000
+      internalID: -2391825841958967553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cd192be9b632f10800000000000000
+      internalID: 2243755368705547415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13f858af78c74b40800000000000000
+      internalID: 5424524726801855259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec964bbbf13dd70800000000000000
+      internalID: 9066625365873118943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 153
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdba9f5f0ca90ae0800000000000000
+      internalID: -1582544612015555139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 153
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0446fe69dd7552930800000000000000
+      internalID: 4117794043531846720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d49edf4eb1dc4440800000000000000
+      internalID: 4921539108123088083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 153
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b3eaf6832802d0800000000000000
+      internalID: -3312358463289182664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09092bd312290c0800000000000000
+      internalID: -4570554122955091787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 105
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f48d618721e06960800000000000000
+      internalID: 7593316531538068726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 105
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc5376192caebda0800000000000000
+      internalID: -5927110767102698300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 105
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa74839ef04728f0800000000000000
+      internalID: -565411766070904157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea2f17d158634980800000000000000
+      internalID: -8555880166363026715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c346f75dbc7f8160800000000000000
+      internalID: 7029974696015053763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 56
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7974f19647e5d30800000000000000
+      internalID: 4422099878969579455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24128991783563fe0800000000000000
+      internalID: -1209687610187308734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7852cae218ddb80800000000000000
+      internalID: -8368390495127894079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3539b53bee12f70800000000000000
+      internalID: 9160865571151238066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcebfc5e59a579700800000000000000
+      internalID: 547005479601028813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 56
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e416213e66e9c0800000000000000
+      internalID: -3898307270071230376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828aec4e5586e8520800000000000000
+      internalID: 2706215144216504360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 8
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ddc6a6c43d14d50800000000000000
+      internalID: 6719884444169985420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478dbeefc531501f0800000000000000
+      internalID: -1079435245550577548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e4e9646cf7e2d0800000000000000
+      internalID: -3249351097920984660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_47
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0881ebed5e9aa0740800000000000000
+      internalID: 5119090731209595008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 8
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de036c406ec7dc960800000000000000
+      internalID: 7623887071572537581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 8
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5f9ece6e59e5a20800000000000000
+      internalID: 3053042416453547432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_50
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 8
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846c8f445652ff7a0800000000000000
+      internalID: -6341308633435290040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_character_dark_green_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 8
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d876109cee2230800000000000000
+      internalID: 3616087654421550747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
